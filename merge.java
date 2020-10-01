@@ -67,7 +67,7 @@ class Mergeso
       merge(arr); 
 
       System.out.println("\n"); 
-      System.out.println("Sorted array is"); 
+      System.out.println("The Sorted array is"); 
 
       for(i=0; i<arr.length; i++) 
           System.out.print(arr[i]+" "); 
